@@ -167,14 +167,14 @@ body{
 
     .colImg{
         border-radius: 10000000px;
-        height: 3rem;
-        width: 3rem;
+        height: 2rem;
+        width: 2rem;
     }
 
-    #building{
+/*     #building{
         height: 3rem;
         width: 3rem;
-    }
+    } */
 
 }
 
