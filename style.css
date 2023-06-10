@@ -143,3 +143,39 @@ body{
 }
 
 
+@media only screen and (max-width: 768px) {
+    .contentImg {
+      font-size: 30px;
+      /* left:2rem ; */
+      left: 32.4%;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .buildCol,.contactCol{
+        height: 5rem;
+        width: 5rem;
+    }
+
+    #para1{
+        position: relative;
+        letter-spacing: 0.01em;
+        font-weight: 300;
+        font-size: 10.8px;
+
+    }
+
+    .colImg{
+        border-radius: 10000000px;
+        height: 3rem;
+        width: 3rem;
+    }
+
+    #building{
+        height: 3rem;
+        width: 3rem;
+    }
+
+}
+
+
